@@ -1,2 +1,2 @@
 # TUBI-2023
-# TUBI-2023 is utilizes manubot to publish variant calling data collected by Treehouse Undergraduate Bioinformatics Immersion (TUBI) #researchers in Spring 2023. 
+# TUBI-Manuscript-2023 is utilizes manubot to publish variant calling data collected by Treehouse Undergraduate Bioinformatics Immersion (TUBI) #researchers in Spring 2023. 
